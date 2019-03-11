@@ -8,6 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("Git HUb Testing::first Commit");
+		System.out.println("Git HUb Testing::first Commit");
 		SpringApplication.run(Application.class, args);
 	}
 }
